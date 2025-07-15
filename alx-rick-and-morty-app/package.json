@@ -12,6 +12,7 @@
     "@apollo/client": "^3.13.8",
     "@sentry/nextjs": "^9.38.0",
     "@sentry/react": "^9.38.0",
+    "@sentry/tracing": "^7.120.3",
     "@types/graphql": "^14.2.3",
     "graphql": "^16.11.0",
     "next": "15.3.5",
